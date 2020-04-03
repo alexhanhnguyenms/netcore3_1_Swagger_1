@@ -1,0 +1,1 @@
+﻿Install-Package Swashbuckle.AspNetCore -Version 5.0.0
